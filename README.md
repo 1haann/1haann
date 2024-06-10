@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/Mysql-%234479A1?style=plastic&logo=Mysql&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=Git&logoColor=white">
 </div>
-
+<br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeWoong-Han&show_icons=true&theme=tokyonight)
 
