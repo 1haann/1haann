@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-F80000?style=plastic">
+<img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-%23005F0F?style=plastic&logo=Thymeleaf&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Mysql-%234479A1?style=plastic&logo=Mysql&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=Git&logoColor=white">
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeWoong-Han&show_icons=true&theme=tokyonight)
+
+
+
