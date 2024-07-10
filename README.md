@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-%23005F0F?style=plastic&logo=Thymeleaf&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=plastic&logo=Mysql&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=Git&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic">
 </div>
 <br>
   
