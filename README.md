@@ -24,8 +24,5 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/Github-%23181717?style=plastic">
 </div>
 <br>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1haann&show_icons=true&theme=dark)
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1haann&show_icons=true&theme=tokyonight)
